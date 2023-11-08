@@ -1,0 +1,23 @@
+{
+  "description": "A list of Serbian verbs",
+  "verbs": [
+    {
+      "inf": "imati",
+      "present_I": "imam",
+      "present_thou": "imaš",
+      "present_one": "ima",
+      "present_we": "imamo",
+      "present_you": "imate",
+      "present_they": "imaju",
+      "past_masculine_one": "imao",
+      "past_feminine_one": "imala",
+      "past_neuter_one": "imalo",
+      "past_masculine_plur": "imao",
+      "past_feminine_plur": "imala",
+      "past_neuter_plur": "imalo"
+    },
+    {
+
+    }
+  ]
+}

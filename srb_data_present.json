@@ -1,0 +1,1161 @@
+{
+  "description": "A list of Serbian verbs. List author - Elena Podust-Čičić.",
+  "verbs_a": [
+    {
+      "inf": "imati",
+      "present_I": "imam",
+      "present_thou": "imaš",
+      "present_one": "ima",
+      "present_we": "imamo",
+      "present_you": "imate",
+      "present_they": "imaju"
+    },
+    {
+      "inf": "znati",
+      "present_I": "znam",
+      "present_thou": "znaš",
+      "present_one": "zna",
+      "present_we": "znamo",
+      "present_you": "znate",
+      "present_they": "znaju"
+    },
+    {
+      "inf": "gledati",
+      "present_I": "gledam",
+      "present_thou": "gledaš",
+      "present_one": "gleda",
+      "present_we": "dledamo",
+      "present_you": "dledate",
+      "present_they": "dledaju"
+    },
+    {
+      "inf": "slušati",
+      "present_I": "slušam",
+      "present_thou": "slušaš",
+      "present_one": "sluša",
+      "present_we": "slušamo",
+      "present_you": "slušate",
+      "present_they": "slušaju"
+    },
+    {
+      "inf": "čkati",
+      "present_I": "čkam",
+      "present_thou": "čkaš",
+      "present_one": "čka",
+      "present_we": "čkamo",
+      "present_you": "čkate",
+      "present_they": "čkaju"
+    },
+    {
+      "inf": "pitati",
+      "present_I": "pitam",
+      "present_thou": "pitaš",
+      "present_one": "pita",
+      "present_we": "pitamo",
+      "present_you": "pitate",
+      "present_they": "pitaju"
+    },
+    {
+      "inf": "odgovarati",
+      "present_I": "odgovaram",
+      "present_thou": "odgovaraš",
+      "present_one": "odgovara",
+      "present_we": "odgovaramo",
+      "present_you": "odgovarate",
+      "present_they": "odgovaraju"
+    },
+    {
+      "inf": "igrati",
+      "present_I": "igram",
+      "present_thou": "igraš",
+      "present_one": "igra",
+      "present_we": "igramo",
+      "present_you": "igrate",
+      "present_they": "igraju"
+    },
+    {
+      "inf": "plivti",
+      "present_I": "plivam",
+      "present_thou": "plivaš",
+      "present_one": "pliva",
+      "present_we": "plivamo",
+      "present_you": "plivate",
+      "present_they": "plivaju"
+    },
+    {
+      "inf": "planirati",
+      "present_I": "planiram",
+      "present_thou": "planiraš",
+      "present_one": "planira",
+      "present_we": "planiramo",
+      "present_you": "planirate",
+      "present_they": "planiraju"
+    },
+        {
+      "inf": "slikati",
+      "present_I": "slikam",
+      "present_thou": "slikaš",
+      "present_one": "slika",
+      "present_we": "slikmo",
+      "present_you": "slikate",
+      "present_they": "slikaju"
+    },
+    {
+      "inf": "crtati",
+      "present_I": "crtam",
+      "present_thou": "crtaš",
+      "present_one": "crta",
+      "present_we": "crtamo",
+      "present_you": "crtate",
+      "present_they": "crtaju"
+    },
+    {
+      "inf": "šetati",
+      "present_I": "šetam",
+      "present_thou": "šetaš",
+      "present_one": "šeta",
+      "present_we": "šetamo",
+      "present_you": "šetate",
+      "present_they": "šetaju"
+    },
+    {
+      "inf": "razmišljati",
+      "present_I": "razmišljam",
+      "present_thou": "razmišljaš",
+      "present_one": "razmišlja",
+      "present_we": "razmišljamo",
+      "present_you": "razmišljate",
+      "present_they": "razmišljaju"
+    },
+    {
+      "inf": "otvarati",
+      "present_I": "otvaram",
+      "present_thou": "otvaraš",
+      "present_one": "otvara",
+      "present_we": "otvaramo",
+      "present_you": "otvarate",
+      "present_they": "otvaraju"
+    },
+    {
+      "inf": "zatvarti",
+      "present_I": "zatvaram",
+      "present_thou": "zatvaraš",
+      "present_one": "zatvara",
+      "present_we": "zatvaramo",
+      "present_you": "zatvarate",
+      "present_they": "zatvaraju"
+    },
+    {
+      "inf": "kuvati",
+      "present_I": "kuvam",
+      "present_thou": "kuvaš",
+      "present_one": "kuva",
+      "present_we": "kuvamo",
+      "present_you": "kuvate",
+      "present_they": "kuvaju"
+    },
+    {
+      "inf": "spremati",
+      "present_I": "spremam",
+      "present_thou": "spremaš",
+      "present_one": "sprema",
+      "present_we": "spremamo",
+      "present_you": "spremate",
+      "present_they": "spremaju"
+    },
+    {
+      "inf": "osećati",
+      "present_I": "osećam",
+      "present_thou": "osećaš",
+      "present_one": "oseća",
+      "present_we": "osećamo",
+      "present_you": "osećate",
+      "present_they": "osećaju"
+    },
+    {
+      "inf": "ostavljati",
+      "present_I": "ostavljam",
+      "present_thou": "ostavljaš",
+      "present_one": "ostavlja",
+      "present_we": "ostavljamo",
+      "present_you": "ostavljate",
+      "present_they": "ostavljaju"
+    },
+    {
+      "inf": "čuvati",
+      "present_I": "čuvam",
+      "present_thou": "čuvaš",
+      "present_one": "čuva",
+      "present_we": "čuvamo",
+      "present_you": "čuvate",
+      "present_they": "čuvaju"
+    },
+    {
+      "inf": "dozvoljavati",
+      "present_I": "dozvoljavam",
+      "present_thou": "dozvoljavaš",
+      "present_one": "dozvoljava",
+      "present_we": "dozvoljavamo",
+      "present_you": "dozvoljavate",
+      "present_they": "dozvoljavaju"
+    },
+    {
+      "inf": "izgledati",
+      "present_I": "izgledam",
+      "present_thou": "izgledaš",
+      "present_one": "izgleda",
+      "present_we": "izgledamo",
+      "present_you": "izgledate",
+      "present_they": "izgledaju"
+    },
+    {
+      "inf": "sipati",
+      "present_I": "sipam",
+      "present_thou": "sipaš",
+      "present_one": "sipa",
+      "present_we": "sipamo",
+      "present_you": "sipate",
+      "present_they": "sipaju"
+    },
+    {
+      "inf": "plaćati",
+      "present_I": "plaćam",
+      "present_thou": "plaćaš",
+      "present_one": "plaća",
+      "present_we": "plaćamo",
+      "present_you": "plaćate",
+      "present_they": "plaćaju"
+    },
+    {
+      "inf": "nastavljati",
+      "present_I": "nastavljam",
+      "present_thou": "nastavljaš",
+      "present_one": "nastavlja",
+      "present_we": "nastavljamo",
+      "present_you": "nastavljate",
+      "present_they": "nastavljaju"
+    },
+    {
+      "inf": "menjati",
+      "present_I": "menjam",
+      "present_thou": "menjaš",
+      "present_one": "menja",
+      "present_we": "menjamo",
+      "present_you": "menjate",
+      "present_they": "menjaju"
+    },
+    {
+      "inf": "vraćati",
+      "present_I": "vraćam",
+      "present_thou": "vraćaš",
+      "present_one": "vraća",
+      "present_we": "vraćamo",
+      "present_you": "vraćate",
+      "present_they": "vraćaju"
+    },
+    {
+      "inf": "objašnjavati",
+      "present_I": "objašnjavam",
+      "present_thou": "objašnjavaš",
+      "present_one": "objašnjava",
+      "present_we": "objašnjavamo",
+      "present_you": "objašnjavate",
+      "present_they": "objašnjavaju"
+    },
+    {
+      "inf": "nadati se",
+      "present_I": "nadam se",
+      "present_thou": "nadaš se",
+      "present_one": "nada se",
+      "present_we": "nadamo se",
+      "present_you": "nadate se",
+      "present_they": "nadaju se"
+    },
+    {
+      "inf": "podržavati",
+      "present_I": "podržavam",
+      "present_thou": "podržavaš",
+      "present_one": "podržava",
+      "present_we": "podržavamo",
+      "present_you": "podržavate",
+      "present_they": "podržavaju"
+    },
+    {
+      "inf": "pokrivati",
+      "present_I": "pokrivam",
+      "present_thou": "pokrivaš",
+      "present_one": "pokriva",
+      "present_we": "pokrivamo",
+      "present_you": "pokrivate",
+      "present_they": "pokrivaju"
+    },
+    {
+      "inf": "birati",
+      "present_I": "biram",
+      "present_thou": "biraš",
+      "present_one": "bira",
+      "present_we": "biramo",
+      "present_you": "birate",
+      "present_they": "biraju"
+    },
+    {
+      "inf": "pričati",
+      "present_I": "pričam",
+      "present_thou": "pričaš",
+      "present_one": "priča",
+      "present_we": "pričamo",
+      "present_you": "pričate",
+      "present_they": "pričaju"
+    },
+    {
+      "inf": "ručati",
+      "present_I": "ručam",
+      "present_thou": "ručaš",
+      "present_one": "ruča",
+      "present_we": "ručamo",
+      "present_you": "ručate",
+      "present_they": "ručaju"
+    },
+    {
+      "inf": "večerati",
+      "present_I": "večeram",
+      "present_thou": "večeraš",
+      "present_one": "večera",
+      "present_we": "večeramo",
+      "present_you": "večerate",
+      "present_they": "večeraju"
+    },
+    {
+      "inf": "odmarati",
+      "present_I": "odmaram",
+      "present_thou": "odmaraš",
+      "present_one": "odmara",
+      "present_we": "odmaramo",
+      "present_you": "odmarate",
+      "present_they": "odmaraju"
+    },
+    {
+      "inf": "završavati",
+      "present_I": "završavam",
+      "present_thou": "završavaš",
+      "present_one": "završava",
+      "present_we": "završavamo",
+      "present_you": "završavate",
+      "present_they": "završavaju"
+    },
+    {
+      "inf": "sviđati se",
+      "present_I": "sviđam se",
+      "present_thou": "sviđaš se",
+      "present_one": "sviđa se",
+      "present_we": "sviđamo se",
+      "present_you": "sviđate se",
+      "present_they": "sviđaju se"
+    },
+    {
+      "inf": "pevati",
+      "present_I": "pevam",
+      "present_thou": "pevaš",
+      "present_one": "peva",
+      "present_we": "pevamo",
+      "present_you": "pevate",
+      "present_they": "pevaju"
+    },
+    {
+      "inf": "sećati se",
+      "present_I": "sećam se",
+      "present_thou": "sećaš se",
+      "present_one": "seća se",
+      "present_we": "sećamo se",
+      "present_you": "sećate se",
+      "present_they": "sećaju se"
+    },
+    {
+      "inf": "morati",
+      "present_I": "moram",
+      "present_thou": "moraš",
+      "present_one": "mora",
+      "present_we": "moramo",
+      "present_you": "morate",
+      "present_they": "moraju"
+    },
+    {
+      "inf": "rešavati",
+      "present_I": "rešavam",
+      "present_thou": "rešavaš",
+      "present_one": "rešava",
+      "present_we": "rešavamo",
+      "present_you": "rešavate",
+      "present_they": "rešavaju"
+    },
+    {
+      "inf": "spavti",
+      "present_I": "spavam",
+      "present_thou": "spavaš",
+      "present_one": "spava",
+      "present_we": "spavamo",
+      "present_you": "spavate",
+      "present_they": "spavaju"
+    },
+    {
+      "inf": "uzimati",
+      "present_I": "uzimam",
+      "present_thou": "uzimaš",
+      "present_one": "uzima",
+      "present_we": "uzimamo",
+      "present_you": "uzimate",
+      "present_they": "uzimaju"
+    },
+    {
+      "inf": "pokušavati",
+      "present_I": "pokušavam",
+      "present_thou": "pokušavaš",
+      "present_one": "pokušava",
+      "present_we": "pokušavamo",
+      "present_you": "pokušavate",
+      "present_they": "pokušavaju"
+    },
+    {
+      "inf": "pokušati",
+      "present_I": "pokušam",
+      "present_thou": "pokušaš",
+      "present_one": "pokuša",
+      "present_we": "pokušamo",
+      "present_you": "pokušate",
+      "present_they": "pokušaju"
+    }
+  ],
+
+  "verbs_i": [
+    {
+      "inf": "raditi",
+      "present_I": "radim",
+      "present_thou": "radiš",
+      "present_one": "radi",
+      "present_we": "radimo",
+      "present_you": "radite",
+      "present_they": "rade"
+    },
+    {
+      "inf": "govoriti",
+      "present_I": "govorim",
+      "present_thou": "govoriš",
+      "present_one": "govori",
+      "present_we": "govorimo",
+      "present_you": "govorite",
+      "present_they": "govore"
+    },
+    {
+      "inf": "ulaziti",
+      "present_I": "ulazim",
+      "present_thou": "ulaziš",
+      "present_one": "ulazi",
+      "present_we": "ulazimo",
+      "present_you": "ulazite",
+      "present_they": "ulaze"
+    },
+    {
+      "inf": "izlaziti",
+      "present_I": "izlazim",
+      "present_thou": "izlaziš",
+      "present_one": "izlazi",
+      "present_we": "izlazimo",
+      "present_you": "izlazite",
+      "present_they": "izlaze"
+    },
+    {
+      "inf": "učiti",
+      "present_I": "učim",
+      "present_thou": "učiš",
+      "present_one": "uči",
+      "present_we": "učimo",
+      "present_you": "učite",
+      "present_they": "uče"
+    },
+    {
+      "inf": "misliti",
+      "present_I": "mislim",
+      "present_thou": "misliš",
+      "present_one": "misli",
+      "present_we": "mislimo",
+      "present_you": "mislite",
+      "present_they": "misle"
+    },
+    {
+      "inf": "tražiti",
+      "present_I": "tražim",
+      "present_thou": "tražiš",
+      "present_one": "traži",
+      "present_we": "tražimo",
+      "present_you": "tražite",
+      "present_they": "traže"
+    },
+    {
+      "inf": "koristiti",
+      "present_I": "koristim",
+      "present_thou": "koristiš",
+      "present_one": "koristi",
+      "present_we": "koristimo",
+      "present_you": "koristite",
+      "present_they": "koriste"
+    },
+    {
+      "inf": "kupiti",
+      "present_I": "kupim",
+      "present_thou": "kupiš",
+      "present_one": "kupi",
+      "present_we": "kupimo",
+      "present_you": "kupite",
+      "present_they": "kupe"
+    },
+    {
+      "inf": "provoditi",
+      "present_I": "provodim",
+      "present_thou": "provodiš",
+      "present_one": "provodi",
+      "present_we": "provodimo",
+      "present_you": "provodite",
+      "present_they": "provode"
+    },
+    {
+      "inf": "šaliti se",
+      "present_I": "šalim se",
+      "present_thou": "šališ se",
+      "present_one": "šali se",
+      "present_we": "šalimo se",
+      "present_you": "šalite se",
+      "present_they": "šale se"
+    },
+    {
+      "inf": "družiti se",
+      "present_I": "družim se",
+      "present_thou": "družiš se",
+      "present_one": "druži se",
+      "present_we": "družimo se",
+      "present_you": "družite se",
+      "present_they": "druže se"
+    },
+    {
+      "inf": "moliti",
+      "present_I": "molim",
+      "present_thou": "moliš",
+      "present_one": "moli",
+      "present_we": "molimo",
+      "present_you": "molite",
+      "present_they": "mole"
+    },
+    {
+      "inf": "staviti",
+      "present_I": "stavim",
+      "present_thou": "staviš",
+      "present_one": "stavi",
+      "present_we": "stavimo",
+      "present_you": "stavite",
+      "present_they": "stave"
+    },
+    {
+      "inf": "želiti",
+      "present_I": "želim",
+      "present_thou": "želiš",
+      "present_one": "želi",
+      "present_we": "želimo",
+      "present_you": "želite",
+      "present_they": "žele"
+    },
+    {
+      "inf": "voliti",
+      "present_I": "volim",
+      "present_thou": "voliš",
+      "present_one": "voli",
+      "present_we": "volimo",
+      "present_you": "volite",
+      "present_they": "vole"
+    },
+    {
+      "inf": "viditi",
+      "present_I": "vidim",
+      "present_thou": "vidiš",
+      "present_one": "vidi",
+      "present_we": "vidimo",
+      "present_you": "vidite",
+      "present_they": "vide"
+    },
+    {
+      "inf": "nalaziti",
+        "present_I": "nalazim",
+      "present_thou": "nalaziš",
+      "present_one": "nalazi",
+      "present_we": "nalazimo",
+      "present_you": "nalazite",
+      "present_they": "nalaze"
+    },
+    {
+      "inf": "ostaviti",
+      "present_I": "ostavim",
+      "present_thou": "ostaviš",
+      "present_one": "ostavi",
+      "present_we": "ostavimo",
+      "present_you": "ostavite",
+      "present_they": "ostave"
+    },
+    {
+      "inf": "zvoniti",
+      "present_I": "zvonim",
+      "present_thou": "zvoniš",
+      "present_one": "zvoni",
+      "present_we": "zvonimo",
+      "present_you": "zvonite",
+      "present_they": "zvone"
+    },
+    {
+      "inf": "dozvoliti",
+      "present_I": "dozvolim",
+      "present_thou": "dozvoliš",
+      "present_one": "dozvoli",
+      "present_we": "dozvolimo",
+      "present_you": "dozvolite",
+      "present_they": "dozvole"
+    },
+    {
+      "inf": "truditi se",
+      "present_I": "trudim se",
+      "present_thou": "trudiš se",
+      "present_one": "trudi se",
+      "present_we": "trudimo se",
+      "present_you": "trudite se",
+      "present_they": "trude se"
+    },
+    {
+      "inf": "platiti",
+      "present_I": "platim",
+      "present_thou": "učiš",
+      "present_one": "plati",
+      "present_we": "platimo",
+      "present_you": "platite",
+      "present_they": "plate"
+    },
+    {
+      "inf": "nastaviti",
+      "present_I": "nastavim",
+      "present_thou": "nastaviš",
+      "present_one": "nastavi",
+      "present_we": "nastavimo",
+      "present_you": "nastavite",
+      "present_they": "nastave"
+    },
+        {
+      "inf": "značiti",
+      "present_I": "značim",
+      "present_thou": "značiš",
+      "present_one": "znači",
+      "present_we": "značimo",
+      "present_you": "značite",
+      "present_they": "znače"
+    },
+        {
+      "inf": "vratiti",
+      "present_I": "vratim",
+      "present_thou": "vratiš",
+      "present_one": "vrati",
+      "present_we": "vratimo",
+      "present_you": "vratite",
+      "present_they": "vrate"
+    },
+        {
+      "inf": "objasniti",
+      "present_I": "objasnim",
+      "present_thou": "objasniš",
+      "present_one": "objasni",
+      "present_we": "objasnimo",
+      "present_you": "objasnite",
+      "present_they": "objasne"
+    },
+        {
+      "inf": "trčati",
+      "present_I": "trčim",
+      "present_thou": "trčiš",
+      "present_one": "trči",
+      "present_we": "trčimo",
+      "present_you": "trčite",
+      "present_they": "trče"
+    },
+        {
+      "inf": "bežati",
+      "present_I": "bežim",
+      "present_thou": "bežiš",
+      "present_one": "beži",
+      "present_we": "bežimo",
+      "present_you": "bežite",
+      "present_they": "beže"
+    },
+        {
+      "inf": "živeti",
+      "present_I": "živim",
+      "present_thou": "živiš",
+      "present_one": "živi",
+      "present_we": "živimo",
+      "present_you": "živite",
+      "present_they": "žive"
+    },
+        {
+      "inf": "donositi",
+      "present_I": "donosim",
+      "present_thou": "donosiš",
+      "present_one": "donosi",
+      "present_we": "donosimo",
+      "present_you": "donosite",
+      "present_they": "donose"
+    },
+        {
+      "inf": "sedeti",
+      "present_I": "sedim",
+      "present_thou": "sediš",
+      "present_one": "sedi",
+      "present_we": "sedimo",
+      "present_you": "sedite",
+      "present_they": "sede"
+    },
+        {
+      "inf": "ležati",
+      "present_I": "ležim",
+      "present_thou": "ležiš",
+      "present_one": "leži",
+      "present_we": "ležimo",
+      "present_you": "učite",
+      "present_they": "leže"
+    },
+        {
+      "inf": "stajati",
+      "present_I": "stojim",
+      "present_thou": "stojiš",
+      "present_one": "stoji",
+      "present_we": "stojimo",
+      "present_you": "stojite",
+      "present_they": "stoje"
+    },
+    {
+      "inf": "izgubiti",
+      "present_I": "izgubim",
+      "present_thou": "izgubiš",
+      "present_one": "izgubi",
+      "present_we": "izgubimo",
+      "present_you": "izgubite",
+      "present_they": "izgube"
+    },
+    {
+      "inf": "pratiti",
+      "present_I": "pratim",
+      "present_thou": "pratiš",
+      "present_one": "prati",
+      "present_we": "pratimo",
+      "present_you": "pratite",
+      "present_they": "prate"
+    },
+        {
+      "inf": "trošiti",
+      "present_I": "trošim",
+      "present_thou": "trošiš",
+      "present_one": "troši",
+      "present_we": "trošimo",
+      "present_you": "trošite",
+      "present_they": "troše"
+    },{
+      "inf": "nuditi",
+      "present_I": "nudim",
+      "present_thou": "nudiš",
+      "present_one": "nudi",
+      "present_we": "nudimo",
+      "present_you": "nudite",
+      "present_they": "nude"
+    },
+    {
+      "inf": "ponuditi",
+      "present_I": "ponudim",
+      "present_thou": "ponudiš",
+      "present_one": "ponudi",
+      "present_we": "ponudimo",
+      "present_you": "ponudite",
+      "present_they": "ponude"
+    },
+    {
+      "inf": "pamtiti",
+      "present_I": "pamtim",
+      "present_thou": "pamtiš",
+      "present_one": "pamti",
+      "present_we": "pamtimo",
+      "present_you": "pamtite",
+      "present_they": "pamte"
+    },
+    {
+      "inf": "graditi",
+      "present_I": "gradim",
+      "present_thou": "gradiš",
+      "present_one": "gradi",
+      "present_we": "gradimo",
+      "present_you": "gradite",
+      "present_they": "grade"
+    },
+        {
+      "inf": "rešiti",
+      "present_I": "rešim",
+      "present_thou": "rešiš",
+      "present_one": "reši",
+      "present_we": "rešimo",
+      "present_you": "rešite",
+      "present_they": "reše"
+    },{
+      "inf": "odluči",
+      "present_I": "odlučim",
+      "present_thou": "odlučiš",
+      "present_one": "odluči",
+      "present_we": "odlučimo",
+      "present_you": "odlučite",
+      "present_they": "odluče"
+    },
+        {
+      "inf": "proizvoditi",
+      "present_I": "proizvodim",
+      "present_thou": "proizvodiš",
+      "present_one": "proizvodi",
+      "present_we": "proizvodimo",
+      "present_you": "proizvodite",
+      "present_they": "proizvode"
+    }
+  ],
+  "verbs_e": [
+    {
+      "inf": "iči",
+      "present_I": "idem",
+      "present_thou": "ideš",
+      "present_one": "ide",
+      "present_we": "idemo",
+      "present_you": "idete",
+      "present_they": "idu"
+    },
+        {
+      "inf": "doči",
+      "present_I": "dođem",
+      "present_thou": "dođeš",
+      "present_one": "dođe",
+      "present_we": "dođemo",
+      "present_you": "dođete",
+      "present_they": "dođu"
+    },
+    {
+      "inf": "otiči",
+      "present_I": "odem",
+      "present_thou": "odeš",
+      "present_one": "ode",
+      "present_we": "odemo",
+      "present_you": "odete",
+      "present_they": "odu"
+    },
+    {
+      "inf": "nači",
+      "present_I": "nađem",
+      "present_thou": "nađeš",
+      "present_one": "nađe",
+      "present_we": "nađemo",
+      "present_you": "nađete",
+      "present_they": "nađu"
+    },
+    {
+      "inf": "snađće se",
+      "present_I": "snađem se",
+      "present_thou": "snađeš se",
+      "present_one": "snađe se",
+      "present_we": "snađemo se",
+      "present_you": "snađete se",
+      "present_they": "snađu se"
+    },
+    {
+      "inf": "jesti",
+      "present_I": "jedem",
+      "present_thou": "jedeš",
+      "present_one": "jede",
+      "present_we": "jedemo",
+      "present_you": "jedete",
+      "present_they": "jedu"
+    },
+    {
+      "inf": "provesti",
+      "present_I": "provedem",
+      "present_thou": "provedeš",
+      "present_one": "provede",
+      "present_we": "provedemo",
+      "present_you": "provedete",
+      "present_they": "provedu"
+    },
+    {
+      "inf": "sresti",
+      "present_I": "sretnem",
+      "present_thou": "sretneš",
+      "present_one": "sretne",
+      "present_we": "sretnemo",
+      "present_you": "sretnete",
+      "present_they": "sretnu"
+    },
+    {
+      "inf": "sesti",
+      "present_I": "sednem",
+      "present_thou": "sedneš",
+      "present_one": "sedne",
+      "present_we": "sednemo",
+      "present_you": "sednete",
+      "present_they": "sednu"
+    },
+    {
+      "inf": "pomoći",
+      "present_I": "pomognem",
+      "present_thou": "pomogneš",
+      "present_one": "pomogne",
+      "present_we": "pomognemo",
+      "present_you": "pomognete",
+      "present_they": "pomognu"
+    },
+    {
+      "inf": "stići",
+      "present_I": "stignem",
+      "present_thou": "stigneš",
+      "present_one": "stigne",
+      "present_we": "stignemo",
+      "present_you": "stignete",
+      "present_they": "stignu"
+    },
+    {
+      "inf": "podići",
+      "present_I": "podignem",
+      "present_thou": "podigneš",
+      "present_one": "podigne",
+      "present_we": "podignemo",
+      "present_you": "podignete",
+      "present_they": "podignu"
+    },
+    {
+      "inf": "putovati",
+      "present_I": "putujem",
+      "present_thou": "putuješ",
+      "present_one": "putuje",
+      "present_we": "putujemo",
+      "present_you": "putujete",
+      "present_they": "putuju"
+    },
+    {
+      "inf": "kupovati",
+      "present_I": "kupujem",
+      "present_thou": "kupuješ",
+      "present_one": "kupuje",
+      "present_we": "kupujemo",
+      "present_you": "kupujete",
+      "present_they": "kupuju"
+    },
+    {
+      "inf": "doručkovati",
+      "present_I": "doručkujem",
+      "present_thou": "doručkuješ",
+      "present_one": "doručkuje",
+      "present_we": "doručkujemo",
+      "present_you": "doručkujete",
+      "present_they": "doručkuju"
+    },
+    {
+      "inf": "reagovati",
+      "present_I": "reagujem",
+      "present_thou": "reaguješ",
+      "present_one": "reaguje",
+      "present_we": "reagujemo",
+      "present_you": "reagujete",
+      "present_they": "reaguju"
+    },
+    {
+      "inf": "pokazivati",
+      "present_I": "pokazujem",
+      "present_thou": "pokazuješ",
+      "present_one": "pokazuje",
+      "present_we": "pokazujemo",
+      "present_you": "pokazujete",
+      "present_they": "pokazuju"
+    },
+    {
+      "inf": "očekivati",
+      "present_I": "očekujem",
+      "present_thou": "očekuješ",
+      "present_one": "očekuje",
+      "present_we": "očekujemo",
+      "present_you": "očekujete",
+      "present_they": "očekuju"
+    },
+    {
+      "inf": "iznajmljivati",
+      "present_I": "iznajmljujem",
+      "present_thou": "iznajmljuješ",
+      "present_one": "iznajmljuje",
+      "present_we": "iznajmljujemo",
+      "present_you": "iznajmljujete",
+      "present_they": "iznajmljuju"
+    },
+
+    {
+      "inf": "poznavati",
+      "present_I": "poznajem",
+      "present_thou": "poznaješ",
+      "present_one": "poznaje",
+      "present_we": "poznajemo",
+      "present_you": "poznajete",
+      "present_they": "poznaju"
+    },
+    {
+      "inf": "brinuti",
+      "present_I": "brinem",
+      "present_thou": "brineš",
+      "present_one": "brine",
+      "present_we": "brinemo",
+      "present_you": "brinete",
+      "present_they": "brinu"
+    },
+    {
+      "inf": "čuti",
+      "present_I": "čujem",
+      "present_thou": "čuješ",
+      "present_one": "čuje",
+      "present_we": "čujemo",
+      "present_you": "čujete",
+      "present_they": "čuju"
+    },
+    {
+      "inf": "obuči",
+      "present_I": "obučem",
+      "present_thou": "obučeš",
+      "present_one": "obuče",
+      "present_we": "obučemo",
+      "present_you": "obučete",
+      "present_they": "obuku"
+    },
+    {
+      "inf": "pisati",
+      "present_I": "pišem",
+      "present_thou": "pišeš",
+      "present_one": "piše",
+      "present_we": "pišemo",
+      "present_you": "pišete",
+      "present_they": "pišu"
+    },
+    {
+      "inf": "plakati",
+      "present_I": "plačem",
+      "present_thou": "plačeš",
+      "present_one": "plače",
+      "present_we": "plačemo",
+      "present_you": "plačete",
+      "present_they": "plaču"
+    },
+    {
+      "inf": "doneti",
+      "present_I": "donesem",
+      "present_thou": "doneseš",
+      "present_one": "donese",
+      "present_we": "donesemo",
+      "present_you": "donesete",
+      "present_they": "donesu"
+    },
+    {
+      "inf": "poneti",
+      "present_I": "ponesem",
+      "present_thou": "poneseš",
+      "present_one": "ponese",
+      "present_we": "ponesemo",
+      "present_you": "ponesete",
+      "present_they": "ponesu"
+    },
+    {
+      "inf": "uzeti",
+      "present_I": "uzmem",
+      "present_thou": "uzmeš",
+      "present_one": "uzme",
+      "present_we": "uzmemo",
+      "present_you": "uzmete",
+      "present_they": "uzmu"
+    },
+    {
+      "inf": "razumeti",
+      "present_I": "razumem",
+      "present_thou": "razumeš",
+      "present_one": "razume",
+      "present_we": "razumemo",
+      "present_you": "razumete",
+      "present_they": "razumeju"
+    },
+    {
+      "inf": "uspeti",
+      "present_I": "uspem",
+      "present_thou": "uspeš",
+      "present_one": "uspe",
+      "present_we": "uspemo",
+      "present_you": "uspete",
+      "present_they": "uspeju"
+    },
+    {
+      "inf": "piti",
+      "present_I": "pijem",
+      "present_thou": "piješ",
+      "present_one": "pije",
+      "present_we": "pijemo",
+      "present_you": "pijete",
+      "present_they": "piju"
+    },
+    {
+      "inf": "naviknuti",
+      "present_I": "naviknem",
+      "present_thou": "navikneš",
+      "present_one": "navikne",
+      "present_we": "naviknemo",
+      "present_you": "naviknete",
+      "present_they": "naviknu"
+    },
+    {
+      "inf": "pomagati",
+      "present_I": "pomažem",
+      "present_thou": "pomažeš",
+      "present_one": "pomaže",
+      "present_we": "pomažemo",
+      "present_you": "pomažete",
+      "present_they": "pomažu"
+    },
+    {
+      "inf": "kazati",
+      "present_I": "kažem",
+      "present_thou": "kažeš",
+      "present_one": "kaže",
+      "present_we": "kažemo",
+      "present_you": "kažete",
+      "present_they": "kažu"
+    },
+    {
+      "inf": "zvati",
+      "present_I": "zovem",
+      "present_thou": "zoveš",
+      "present_one": "zove",
+      "present_we": "zovemo",
+      "present_you": "zovete",
+      "present_they": "zovu"
+    },
+    {
+      "inf": "slati",
+      "present_I": "šaljem",
+      "present_thou": "šalješ",
+      "present_one": "šalje",
+      "present_we": "šaljemo",
+      "present_you": "šaljete",
+      "present_they": "šalju"
+    },
+    {
+      "inf": "prati",
+      "present_I": "perem",
+      "present_thou": "pereš",
+      "present_one": "pere",
+      "present_we": "peremo",
+      "present_you": "perete",
+      "present_they": "peru"
+    }
+  ]
+}
